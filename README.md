@@ -28,28 +28,25 @@ By studying data from April 2019 to September 2020, this analysis provides insig
 
 ---
 
-## 🗂️ Project Structure
 
-Farmers Market Analysis/
-│
-├── Farmers Market Dashboard.ipynb
-│
-├── Resources/
-│ ├── booth.csv
-│ ├── customer.csv
-│ ├── customer_purchases.csv
-│ ├── datetime_demo.csv
-│ ├── market_date_info.csv
-│ ├── product.csv
-│ ├── product_category.csv
-│ ├── vendor.csv
-│ ├── vendor_booth_assignment.csv
-│ └── vendor_inventory.csv
-│
-└── images/
-├── 1.png
-└── 3.png
+### 📂 Project File Structure
 
+* **Farmers Market Analysis/**
+    * **images/**
+        * `1.png`
+        * `3.png`
+    * **Resources/**
+        * `booth.csv`
+        * `customer_purchases.csv`
+        * `customer.csv`
+        * `datetime_demo.csv`
+        * `market_date_info.csv`
+        * `product_category.csv`
+        * `product.csv`
+        * `vendor_booth_assignment.csv`
+        * `vendor_inventory.csv`
+        * `vendor.csv`
+    * `Farmers Market Dashboard.ipynb`
 
 ---
 
